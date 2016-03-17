@@ -4,6 +4,13 @@
   "description": "KeePass web app",
   "main": "Gruntfile.js",
   "repository": "https://github.com/antelle/keeweb",
+  "cozy-type": "static",
+  "cozy-displayName": "Keeweb",
+  "icon-path": "/graphics/dmg-bg.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antelle/keeweb.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "base64-loader": "^1.0.0",
